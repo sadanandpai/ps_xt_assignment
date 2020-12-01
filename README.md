@@ -42,6 +42,11 @@
 - Images are loaded lazily
 - Animations are done using CSS
 
+<div align="center">
+    <img src="./imgs/score_desktop.PNG" alt="banner" width="400px" />
+    <img src="./imgs/score_mobile.PNG" alt="banner" width="400px" />
+</div>
+
 ## Build and Packaging
 - Parcel is used to build and package the front end code
   - Run: `parcel ./source_code/index.html`
