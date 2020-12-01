@@ -1,5 +1,9 @@
 # ps-xt-assignment
 
+<div align="center">
+    <img src="./imgs/desk.PNG" alt="banner" width="500px" />
+</div>
+
 ## Stack
 - HTML, CSS and JavaScript are used as the core technologies
 - ReactJS is used to manage the DOM manipulations and data rendering
@@ -11,6 +15,15 @@
   - Filter section
   - Mission data display section
 - The UI is made responsive using media query as mentioned for Mobile View, Tablet View and Desktop View
+- Multiple filters can applied by clicking on the filters
+- Clear all filters will clear applied filters
+
+<div align="center">
+    <img src="./imgs/desk.PNG" alt="banner" width="550px" />
+    <img src="./imgs/tab.PNG" alt="banner" height="300px" />
+    <img src="./imgs/mobile.PNG" alt="banner" height="300px" />
+</div>
+
 
 ## Technical Details
 - The filter section designed using flex with 50% width for each filter items
